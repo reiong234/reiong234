@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rei (@reiong234)
-- 👀 I’m interested in Gaming, 3D Art and Software Dev
+- 👀 I’m interested in Gaming, 3D Art and Software Development
 - 🌱 I’m currently learning Python and AWS as well 3D Modelling and Rendering in Blender.
 
 <!---
